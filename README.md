@@ -32,7 +32,7 @@ lemmatize(sentence, word_list)
 
 # du sitta i trädgård ensam med anteckningsbok
 # en smörgås plunta och pipa
-# det vara natt men så # lugn att ljus brinna utan att fladdra
+# det vara natt men så lugn att ljus brinna utan att fladdra
 # sprida ett återsken över bord av skrovlig planka
 # och glänsa i flaska och glas
 
